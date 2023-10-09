@@ -1,0 +1,22 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "First project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Andy",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "shortid": "^2.2.16"
+  }
+}
